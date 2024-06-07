@@ -1,5 +1,5 @@
 # acunetix
 
-download with git clone
-chmod +x install.sh
-./install.sh
+1. download with git clone
+2. chmod +x install.sh
+3. ./install.sh
